@@ -6,7 +6,7 @@ The CGPA Calculator is a Java-based application designed to help students calcul
 <img src="https://github.com/user-attachments/assets/64045378-446a-4a68-b2e3-64c329fa4479" width="300" height="250" />
 <img src="https://github.com/user-attachments/assets/f708f24c-9bc5-49d2-b8d7-31c967e3e4b8" width="300" height="250" />
 <img src="https://github.com/user-attachments/assets/5c7c0420-20cc-496d-91aa-4eda3702f8db" width="300" heihgt="150" />
-<img src="https://github.com/user-attachments/assets/19b7019e-e568-419f-959a-8f417b377cef" width="300" height="196" />
+<img src="https://github.com/user-attachments/assets/19b7019e-e568-419f-959a-8f417b377cef" width="300" height="176" />
 
 
 
